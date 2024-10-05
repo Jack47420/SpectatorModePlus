@@ -1,6 +1,6 @@
 # **About to be in DEVELOPMENT**
 
-# SM+P - Spectator Mode+ Plugin
+# SMPP - Spectator Mode+ Plugin
 
 ---
 
