@@ -4,8 +4,8 @@
 Thanks to owehe1, who maintained the plugin after original creator stopped. Now i will try to maintain and soon upgrade it with new Features:
 
 # Versions:
-v2.2.1 only with JDK22+
-v2.2.2 JDK21+
+- v2.2.1 only with JDK22+
+- v2.2.2 JDK21+
 
 
 # Planned Features:
