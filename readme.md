@@ -1,7 +1,7 @@
-# **THIS IS A FORK OF SPECTATOR MODE REWRITE**
-Thanks to owehe1, who maintained the plugin after original creator stopped. Now i will try to maintain and soon upgrade it with new Features:
+# SMPP - Spectator Mode Plus Plugin
 
-# SMPP - Spectator Mode+ Plugin
+### **THIS IS A FORK OF SPECTATOR MODE REWRITE**
+Thanks to owehe1, who maintained the plugin after original creator stopped. Now i will try to maintain and soon upgrade it with new Features:
 
 # Planned Features:
 - Multiple Different Modes in config for PVP, Survival and other GameModes.
@@ -11,5 +11,5 @@ Thanks to owehe1, who maintained the plugin after original creator stopped. Now 
 And more to come!
 
 
----
+
 
