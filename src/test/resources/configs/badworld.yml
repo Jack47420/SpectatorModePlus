@@ -1,5 +1,0 @@
-# config file for SpectatorManagerTest#testTogglePlayerWithBadWorld
-
-# Changed worlds and worlds-allowed
-enforce-worlds: true
-worlds-allowed: [ aworldyouarenotin, umaybeinthisworld ]
